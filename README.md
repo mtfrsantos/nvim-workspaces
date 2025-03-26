@@ -16,7 +16,7 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ```lua
 {
-    "your-username/nvim-workspaces",
+    "mtfrsantos/nvim-workspaces"
     dependencies = { "nvim-telescope/telescope.nvim" }, -- optional
     config = true,
 }
